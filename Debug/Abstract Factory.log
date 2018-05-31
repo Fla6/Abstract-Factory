@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Abstract Factory.cpp
+c:\users\влад\source\repos\abstract factory\abstract factory\abstract factory.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\abstract factory\abstract factory\abstract factory.cpp(131): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\abstract factory\abstract factory\abstract factory.cpp(132): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\abstract factory\abstract factory\abstract factory.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\abstract factory\abstract factory\abstract factory.cpp(137): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\abstract factory\abstract factory\abstract factory.cpp(138): warning C4018: <: несоответствие типов со знаком и без знака
+  Abstract Factory.vcxproj -> C:\Users\Влад\source\repos\Abstract Factory\Debug\Abstract Factory.exe
